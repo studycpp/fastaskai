@@ -1,7 +1,7 @@
 {
   "version_code":100,
   "version_filename":"fastaskai_v1.00.apk",
-  "version_info":"v1.00\n1.fisrt version",
+  "version_info":"v1.00\n1.first version",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
   "ai_engine":[
     {"aihost":"https://iat.cn-huabei-1.xf-yun.com/v1","aimodel":"slm","appid":"767c2829","apikey":"96e478611d354f7d13e6690cea60f92a","apisecret":"YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi" },
