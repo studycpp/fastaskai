@@ -1,0 +1,10 @@
+{
+  "version_code":100,
+  "version_filename":"fastaskai_v1.00.apk",
+  "version_info":"v1.00\n1.初始版本",
+  "download_url":"https://gitee.com/studycpp/fastaskai/raw/master/fastaskai.apk",
+  "ai_engine":[
+    {"aihost":"https://iat.cn-huabei-1.xf-yun.com/v1","aimodel":"slm","appid":"767c2829","apikey":"96e478611d354f7d13e6690cea60f92a","apisecret":"YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi" },
+    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-8b-instruct","appid":"null","apikey":"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","apisecret":"null" }
+  ]
+}
