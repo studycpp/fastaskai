@@ -1,10 +1,18 @@
 {
-  "version_code":100,
-  "version_filename":"fastaskai_v1.00.apk",
-  "version_info":"v1.00\n1.first version",
+  "version_code":105,
+  "version_filename":"fastaskai_v1.05.apk",
+  "version_info":"v1.05\n1.Stability improvement\n2.After checking the upgrade, support AI large model selection",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
   "ai_engine":[
-    {"aihost":"https://iat.cn-huabei-1.xf-yun.com/v1","aimodel":"slm","appid":"767c2829","apikey":"96e478611d354f7d13e6690cea60f92a","apisecret":"YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi" },
-    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-8b-instruct","appid":"null","apikey":"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","apisecret":"null" }
+    {"aihost":"https://iat.cn-huabei-1.xf-yun.com/v1","aimodel":"slm","appid":"767c2829","apikey":"96e478611d354f7d13e6690cea60f92a","apisecret":"YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi","ainame":"iat_slm"},
+
+    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-405b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"meta/llama-3.1-405b" },
+
+    {"aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions","aimodel":"general","appid":"null","apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV","apisecret":"null" ,"ainame":"sparklite" },
+
+    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"nvidia/nemotron-4-340b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"nvidia/nemotron-4-340b"  },
+
+    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-8b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"meta/llama-3.1-8b" }
+
   ]
 }
