@@ -1,7 +1,7 @@
 {
-  "version_code":107,
-  "version_filename":"fastaskai_v1.07.apk",
-  "version_info":"v1.07\n1.Optimize settings and adopt stable and usable large models.\n2.Check and upgrade to support various types of AI models",
+  "version_code":108,
+  "version_filename":"fastaskai_v1.08.apk",
+  "version_info":"V1.08 must be upgraded to connect to AI \n1. According to usual rules, encrypt the API key to prevent leakage \n2. After checking the upgrade, support various AI large model selections",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
   
   "ai_engine2": {
@@ -10,8 +10,8 @@
                         "aihost": "https://iat.cn-huabei-1.xf-yun.com/v1",
                             "aimodel": "slm",
                             "appid": "767c2829",
-                            "apikey": "96e478611d354f7d13e6690cea60f92a",
-                            "apisecret": "YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi",
+                            "apikey": "tVe78NSEZ5PNI8bMMDE1awxsqvFDZaAcq7ceVuM1xCTFwkF7JDconaZswMdpoi0X",
+                            "apisecret": "RHKVckRVMfKQ1SpDivS3189qjT3oX4GmbEAzY+Uho47frog4iH6LYk5TOOc05qE6",
                             "ainame": "iat_slm"
                     }
             ],
@@ -20,7 +20,7 @@
                         "aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions",
                         "aimodel":"general",
                         "appid":"null",
-                        "apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV",
+                        "apikey":"cyL2tAydM3gL7ApYwpAEY6m2uF6FJrKjcRvivVizHFLiScaDDK1MRHTNjB0kAHe9",
                         "apisecret":"null" ,
                         "ainame":"sparklite" 
                     },
@@ -29,7 +29,7 @@
                         "aihost":"https://api.atomecho.cn/v1/chat/completions",
                         "aimodel":"Atom-7B-Chat",
                         "appid":"null",
-                        "apikey":"sk-73b49ae77d189c9c1e15a7d5552bbe0f",
+                        "apikey":"pG449SskPAOX4pmvcjLqCSW+50xiipH7dC0BbRn0MmzYRguOjHBhFEVvqeIrKOi5",
                         "apisecret":"null",
                         "ainame":"Atom-7B-Chat" 
                     }
@@ -41,8 +41,8 @@
                         "aihost": "https://iat.cn-huabei-1.xf-yun.com/v1",
                             "aimodel": "slm",
                             "appid": "767c2829",
-                            "apikey": "96e478611d354f7d13e6690cea60f92a",
-                            "apisecret": "YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi",
+                            "apikey": "tVe78NSEZ5PNI8bMMDE1awxsqvFDZaAcq7ceVuM1xCTFwkF7JDconaZswMdpoi0X",
+                            "apisecret": "RHKVckRVMfKQ1SpDivS3189qjT3oX4GmbEAzY+Uho47frog4iH6LYk5TOOc05qE6",
                             "ainame": "iat_slm"
                     },
                     
@@ -50,7 +50,7 @@
                         "aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions",
                         "aimodel":"general",
                         "appid":"null",
-                        "apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV",
+                        "apikey":"cyL2tAydM3gL7ApYwpAEY6m2uF6FJrKjcRvivVizHFKPiF+drkocdtCSLz3n8nlA",
                         "apisecret":"null" ,
                         "ainame":"sparklite" 
                     },
@@ -59,7 +59,7 @@
                         "aihost":"https://api.atomecho.cn/v1/chat/completions",
                         "aimodel":"Atom-7B-Chat",
                         "appid":"null",
-                        "apikey":"sk-73b49ae77d189c9c1e15a7d5552bbe0f",
+                        "apikey":"pG449SskPAOX4pmvcjLqCSW+50xiipH7dC0BbRn0MmzYRguOjHBhFEVvqeIrKOi5",
                         "apisecret":"null",
                         "ainame":"Atom-7B-Chat" 
                     }
