@@ -32,6 +32,15 @@
                         "apikey":"pG449SskPAOX4pmvcjLqCSW+50xiipH7dC0BbRn0MmzYRguOjHBhFEVvqeIrKOi5",
                         "apisecret":"null",
                         "ainame":"Atom-7B-Chat" 
+                    },
+
+                    {
+                        "aihost":"https://api.siliconflow.cn/v1/chat/completions",
+                        "aimodel":"deepseek-ai/DeepSeek-V2-Chat",
+                        "appid":"null",
+                        "apikey":"MCKdepSGcNwRLCbZUK6tpiMKw2LS6IECsZw6fG2o58I/xmWnYB+dN64qTkX+yoGoDBnAHrPSL6YhmsvRg1HHjg==",
+                        "apisecret":"null",
+                        "ainame":"DeepSeek-V2-Chat" 
                     }
             ]
         },
