@@ -1,18 +1,68 @@
 {
-  "version_code":105,
-  "version_filename":"fastaskai_v1.05.apk",
-  "version_info":"v1.05\n1.Stability improvement\n2.After checking the upgrade, support AI large model selection",
+  "version_code":107,
+  "version_filename":"fastaskai_v1.07.apk",
+  "version_info":"v1.07\n1.Optimize settings and adopt stable and usable large models.\n2.Check and upgrade to support various types of AI models",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
+  
+  "ai_engine2": {
+    "ai_stt": [
+                    {
+                        "aihost": "https://iat.cn-huabei-1.xf-yun.com/v1",
+                            "aimodel": "slm",
+                            "appid": "767c2829",
+                            "apikey": "96e478611d354f7d13e6690cea60f92a",
+                            "apisecret": "YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi",
+                            "ainame": "iat_slm"
+                    }
+            ],
+    "ai_chat":[
+                    {
+                        "aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions",
+                        "aimodel":"general",
+                        "appid":"null",
+                        "apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV",
+                        "apisecret":"null" ,
+                        "ainame":"sparklite" 
+                    },
+
+                    {
+                        "aihost":"https://api.atomecho.cn/v1/chat/completions",
+                        "aimodel":"Atom-7B-Chat",
+                        "appid":"null",
+                        "apikey":"sk-73b49ae77d189c9c1e15a7d5552bbe0f",
+                        "apisecret":"null",
+                        "ainame":"Atom-7B-Chat" 
+                    }
+            ]
+        },
+
   "ai_engine":[
-    {"aihost":"https://iat.cn-huabei-1.xf-yun.com/v1","aimodel":"slm","appid":"767c2829","apikey":"96e478611d354f7d13e6690cea60f92a","apisecret":"YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi","ainame":"iat_slm"},
+                    {
+                        "aihost": "https://iat.cn-huabei-1.xf-yun.com/v1",
+                            "aimodel": "slm",
+                            "appid": "767c2829",
+                            "apikey": "96e478611d354f7d13e6690cea60f92a",
+                            "apisecret": "YzE1YmIzN2M1NGUzNDk4OTRiNGNlYzNi",
+                            "ainame": "iat_slm"
+                    },
+                    
+                    {
+                        "aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions",
+                        "aimodel":"general",
+                        "appid":"null",
+                        "apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV",
+                        "apisecret":"null" ,
+                        "ainame":"sparklite" 
+                    },
 
-    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-405b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"meta/llama-3.1-405b" },
+                    {
+                        "aihost":"https://api.atomecho.cn/v1/chat/completions",
+                        "aimodel":"Atom-7B-Chat",
+                        "appid":"null",
+                        "apikey":"sk-73b49ae77d189c9c1e15a7d5552bbe0f",
+                        "apisecret":"null",
+                        "ainame":"Atom-7B-Chat" 
+                    }
 
-    {"aihost":"https://spark-api-open.xf-yun.com/v1/chat/completions","aimodel":"general","appid":"null","apikey":"omXIzmTtMARvyCmikgFf:EGMNACLovWSGrZTutaqV","apisecret":"null" ,"ainame":"sparklite" },
-
-    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"nvidia/nemotron-4-340b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"nvidia/nemotron-4-340b"  },
-
-    {"aihost":"https://integrate.api.nvidia.com/v1/chat/completions","aimodel":"meta/llama-3.1-8b-instruct","appid":"null","apikey":"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","apisecret":"null","ainame":"meta/llama-3.1-8b" }
-
-  ]
+            ]
 }
