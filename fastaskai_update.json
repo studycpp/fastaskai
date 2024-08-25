@@ -1,7 +1,7 @@
 {
   "version_code":108,
   "version_filename":"fastaskai_v1.08.apk",
-  "version_info":"V1.08 must be upgraded to connect to AI \n1. According to usual rules, encrypt the API key to prevent leakage \n2. After checking the upgrade, support various AI large model selections",
+  "version_info":" App must be upgraded to v1.08 to connect to AI \n1. According to usual rules, encrypt the API key to prevent leakage \n2. After checking the upgrade, support various AI large model selections",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
   
   "ai_engine2": {
