@@ -1,7 +1,7 @@
 {
-  "version_code":108,
-  "version_filename":"fastaskai_v1.08.apk",
-  "version_info":" App must be upgraded to v1.08 to connect to AI \n1. According to usual rules, encrypt the API key to prevent leakage \n2. After checking the upgrade, support various AI large model selections",
+  "version_code":109,
+  "version_filename":"fastaskai_v1.09.apk",
+  "version_info":"The app must be upgraded to v1.08 or above to connect to AI \n v1.09 \n1. Supports local voice reading, just click on the text (TTS Text to Speech needs to be installed on the phone, MultiTTS is recommended) \n2. After checking the upgrade, it supports various types of AI large model selection",
   "download_url":"https://raw.githubusercontent.com/studycpp/fastaskai/main/fastaskai.apk",
   
   "ai_engine2": {
