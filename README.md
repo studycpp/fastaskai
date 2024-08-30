@@ -54,6 +54,4 @@ FastAskAI — это бесплатное приложение, которое �
 
 ![icon_large](pic/icon_large.png)
 ![en1](pic/en1.webp)
-![en2](pic/en2.webp)
-![en3]pic/en3.webp)
-
+![en2](pic/cn1.webp)
